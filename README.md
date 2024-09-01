@@ -16,7 +16,7 @@ Derivative pricing is a critical area in financial engineering and quantitative 
 
 The Black-Scholes model is a mathematical model used for pricing European-style options. It assumes constant volatility and risk-free interest rate, providing a closed-form solution for option pricing.
 
-- **Description:** This implementation calculates the price of European and American call and put options using the Black-Scholes formula.
+- **Description:** This implementation calculates the price of European and American call and put options using the Black-Scholes formula. Greeks are also computed.
 
 #### 2. Finite Difference Method
 
